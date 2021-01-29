@@ -1,0 +1,13 @@
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\obj\Debug\netcoreapp3.1\gerador-massa.csprojAssemblyReference.cache
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\obj\Debug\netcoreapp3.1\gerador-massa.AssemblyInfoInputs.cache
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\obj\Debug\netcoreapp3.1\gerador-massa.AssemblyInfo.cs
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\bin\Debug\netcoreapp3.1\gerador-massa.exe
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\bin\Debug\netcoreapp3.1\gerador-massa.deps.json
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\bin\Debug\netcoreapp3.1\gerador-massa.runtimeconfig.json
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\bin\Debug\netcoreapp3.1\gerador-massa.runtimeconfig.dev.json
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\bin\Debug\netcoreapp3.1\gerador-massa.dll
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\bin\Debug\netcoreapp3.1\gerador-massa.pdb
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\bin\Debug\netcoreapp3.1\Bogus.dll
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\obj\Debug\netcoreapp3.1\gerador-massa.csproj.CopyComplete
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\obj\Debug\netcoreapp3.1\gerador-massa.dll
+C:\Users\PICHAU\Documents\Estudo\Projetos\ex-invest\gerador-massa\obj\Debug\netcoreapp3.1\gerador-massa.pdb

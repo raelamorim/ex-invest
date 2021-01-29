@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "gerador-massa/1.0.0": {
+        "dependencies": {
+          "Bogus": "29.0.2"
+        },
+        "runtime": {
+          "gerador-massa.dll": {}
+        }
+      },
+      "Bogus/29.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Bogus.dll": {
+            "assemblyVersion": "29.0.2.0",
+            "fileVersion": "29.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gerador-massa/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Bogus/29.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rrKyfSWt/eFj6k1JnvapMPfxmoQmo0y/9AK596kCm7sbmTxGq7j2iFVBNAFY3eXS0GCsdoI8vFgyxgQRWLjh3A==",
+      "path": "bogus/29.0.2",
+      "hashPath": "bogus.29.0.2.nupkg.sha512"
+    }
+  }
+}
